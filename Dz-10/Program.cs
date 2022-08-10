@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите первое число : ");
+﻿Console.WriteLine("Введите трехзначное число : ");
 int N1 = int.Parse(Console.ReadLine());
 
 if (N1 > 99 && N1 <1000) 
